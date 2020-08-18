@@ -1,5 +1,7 @@
 # Apple II Card Slot Riser
 
+![Board preview](board.png)
+
 This is a simple KiCad project to build an Apple II card slot riser.
 
 It contains mounting points for straddle-mounting an edge connector, or using a right-angle connector.
